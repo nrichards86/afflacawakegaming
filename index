@@ -1,0 +1,43 @@
+<DOCTYPE html>
+<html>
+<title>Afflac Awake Gaming</title>
+<head>
+<h1>Afflac Awake Gaming</h1>
+</head>
+<body>
+<div class="title">
+div id="box1">
+<h2Quotes</h2>
+</div>
+<div id =
+<q>You miss 100 precent of the shots you don't take</q><p>- Wayne Gretzky</p>
+</div>
+<div class="title">
+div id='box2">
+<h2>About</h2>
+</div>
+<p>Afflac Awake Gaming is a secong channel of the Afflac Awake franchise of channels. It is focused solely on video games and other gamign videos. Nathan Richards, the creator of the Afflac Awake Channels, has chosen to move all gaming content to this channel and keep the main channel for sports content.</p>
+</div>
+<div class="title">
+<div class="box3">
+<h2>Featured Videos</h2>
+</div>
+<uL>
+<li><a href="https://www.youtube.com/watch?v=A-s4gPz5au8"><Madden 21 Face of the Franchise Super Bowl Win Cutscene></a></li>
+<li><a href="https://www.youtube.com/watch?v=4YQFQ5mpPhg"><My Thoughts on Glitches></a></li>
+<li><a href="https://www.youtube.com/watch?v=Bevw6rDwG7k"><NHL 22 Wishlist></a></li>
+</ul>
+<div class="title">
+<div id="box4">
+<h2>Social Media Links</h2>
+</div>
+<ul>
+<li><a href="https://www.youtube.com/channel/UCQQ-7SpcESzqdlaeP9H1g8w">Gaming Youtube Channel</a></li>
+<li><a href="https://twitter.com/AfflacAwake">Twitter></a></li>
+<li><a href="https://www.facebook.com/AfflacAwake"><Facebook Page></a></li>
+<li><a href="https://www.youtube.com/channel/UCJcd-MMNXj-wsm8yrYzI46A"><Main Channel></a></li>
+</ul>
+</div>
+</body>
+<div class="copyright">&copy; copyright 2021 Afflac Awake Gaming Channel. All Rights Reserved </div>
+</html>
